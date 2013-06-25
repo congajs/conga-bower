@@ -1,0 +1,11 @@
+parameters:
+
+    bower.listener.constructor: conga-bower:bower
+
+services:
+
+    # the bower kernel listener
+    bower.listener:
+        constructor: %bower.listener.constructor%
+        tags:
+            - { name: kernel.event, event: kernel.server_boot, method: onServerBoot, priority: 1 }

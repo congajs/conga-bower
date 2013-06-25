@@ -1,0 +1,27 @@
+{
+  "name": "conga-bower",
+  "version": "0.0.1",
+  "description": "Conga.js bundle which wraps around Bower to install client dependencies",
+  "directories": {
+    "test": "test"
+  },
+  "main": "",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/congajs/conga-bower.git"
+  },
+  "keywords": [
+
+  ],
+  "author": "Marc Roulias",
+  "license": "MIT",
+  "dependencies": {
+    "bower": "0.9.2"
+  },
+  "devDependencies": {
+  },
+  "readmeFilename": "README.md"
+}

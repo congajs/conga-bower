@@ -1,0 +1,8 @@
+# bower config
+bower:
+
+    # target directory in public where deps get installed
+    directory: js/lib
+
+    # dependencies to install
+    dependencies:
