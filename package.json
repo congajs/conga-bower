@@ -19,7 +19,7 @@
   "author": "Marc Roulias",
   "license": "MIT",
   "dependencies": {
-    "bower": "0.9.2"
+    "bower": "latest"
   },
   "devDependencies": {
   },
