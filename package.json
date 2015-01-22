@@ -1,6 +1,6 @@
 {
   "name": "conga-bower",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Conga.js bundle which wraps around Bower to install client-side dependencies",
   "directories": {
     "test": "test"
